@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+p{
+    font-family: sans-serif;
+}
+pre{
+    color: #0000ff;
+    font-style: italic;
+    
+}
+.table, .table td{
+    border: 1px solid black
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.output{
+    color: #000000;
+    font-weight: bold;
+        
+    
+}
